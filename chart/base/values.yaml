@@ -42,6 +42,6 @@ vcsInfo:
 
 partOf: ""
 
-connectsTo: ""
+connectsTo: "cnt-graphql-typescript"
 
 runtime: js
